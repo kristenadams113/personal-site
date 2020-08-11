@@ -1,33 +1,22 @@
-/*TODO: Add a background color or image to your website*/
+/* added a background color or image to my website*/
 body {
- background-color: #967bb6; 
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c71f31c-d62e-4c14-b189-42d2fa1e0046/dai2dfu-a92854d5-e26d-4ce8-ab96-c2e6dd7eeb58.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmM3MWYzMWMtZDYyZS00YzE0LWIxODktNDJkMmZhMWUwMDQ2XC9kYWkyZGZ1LWE5Mjg1NGQ1LWUyNmQtNGNlOC1hYjk2LWMyZTZkZDdlZWI1OC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.uY4KTgnmHobpJOAPgvZVEu3hcrw4bLGT6WrN8XZlirE");
 }
-
 
 h1 {
-  color: navy;
+  color: #FFFFFF;
 }
 
+/* created a new style rule by the class attribute and style the header section(s) of my website. */
 
-/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
-
-
-
+h1 {
+  text-align: center;
+}
 
 /*TODO: Use the * selector to reset the margin and padding to 0px*/
 
-
-
-
-
 /*TODO: Add styling rules for the text and images on your website.*/
-
-
-
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
-
-
-
-/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ 
+/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
