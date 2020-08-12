@@ -66,7 +66,14 @@ li a:hover {
 
 /*TODO: Add styling rules for the text and images on your website.*/
 
-/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+/* created a Flexbox to create a responsive layout*/
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 
 /* formatting tables on home page */
 table,
@@ -133,8 +140,8 @@ h3 {
   font-family: "Lato", sans-serif;
 }
 
-.mont {
-  font-family: "Montserrat", sans-serif;
+.lora{
+  font-family: 'Lora', serif;
 }
 
 /* adding customization for blog page */
@@ -164,4 +171,9 @@ h3 {
   padding: 30px;
   text-align: left;
   color: ##22083D;
+}
+
+.big-title {
+  style: "border-left: 7em 7em 2em 7em";
+  font-family: 'Lora', serif;
 }
