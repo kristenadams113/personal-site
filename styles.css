@@ -5,13 +5,24 @@ body {
 
 /* added background image for header */
 .header {
-  padding: 400px;
+  padding: 300px;
   text-align: center;
   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c71f31c-d62e-4c14-b189-42d2fa1e0046/dai2dfu-a92854d5-e26d-4ce8-ab96-c2e6dd7eeb58.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmM3MWYzMWMtZDYyZS00YzE0LWIxODktNDJkMmZhMWUwMDQ2XC9kYWkyZGZ1LWE5Mjg1NGQ1LWUyNmQtNGNlOC1hYjk2LWMyZTZkZDdlZWI1OC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.uY4KTgnmHobpJOAPgvZVEu3hcrw4bLGT6WrN8XZlirE");
   color: white;
   font-size: 30px;
   border: 3px solid white;
 }
+
+.blog-header {
+  padding: 200px;
+  text-align: center;
+  background-image: url("https://data.whicdn.com/images/258515697/original.gif");
+  color: white;
+  font-size: 30px;
+  border: 3px solid white;
+}
+
+.port-header
 
 /* styling the Nav Bar by selecting the u1, li, and li a elements */
 li {
