@@ -13,7 +13,7 @@ body {
   border: 3px solid white;
 }
 
-/* for the navigation bar */
+/* styling the Nav Bar by selecting the u1, li, and li a elements */
 li {
   display: inline;
   float: center;
@@ -48,9 +48,9 @@ li a:hover {
 
 /*TODO: Add styling rules for the text and images on your website.*/
 
-/*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+
 
 /* formatting tables on home page */
 table,
@@ -110,4 +110,10 @@ h3 {
   color: ##22083D;
   padding-top: 1em;
   padding-bottom: 1em;
+}
+
+
+/* fonts */
+.lato {
+  font-family: 'Lato', sans-serif;
 }
