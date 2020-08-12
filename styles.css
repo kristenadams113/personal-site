@@ -133,6 +133,10 @@ h3 {
   font-family: "Lato", sans-serif;
 }
 
+.mont {
+  font-family: "Montserrat", sans-serif;
+}
+
 /* adding customization for blog page */
 
 .blog-title {
@@ -141,24 +145,23 @@ h3 {
   text-align: center;
   background: pink;
   color: white;
-  font-family: "Lato", sans-serif;
+  border: 3px solid white;
 }
 
 .title {
+  padding: 30px;
   text-align: left;
-  color: white;
-  font-family: "Lato", sans-serif;
+  color: ##22083D;
 }
 
 .date {
+  padding: 30px;
   text-align: left;
-  color: white;
-  font-family: "Lato", sans-serif;
+  color: ##22083D;
 }
 
 .blog-content {
   padding: 30px;
   text-align: left;
-  color: white;
-  font-family: "Lato", sans-serif;
+  color: ##22083D;
 }
