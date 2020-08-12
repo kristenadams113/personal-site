@@ -25,6 +25,9 @@ This is your homepage. It should be the first page that you work on.
 ## ← portfolio.html
 This will be your portfolio page.  
 
+## ← blog.html
+This will be your blog page.  
+
 ## ← script.js
 
 Later this week, you'll get fancy with the ability to add interactivity to your site with JavaScript. For now, there's no need to edit this file!
