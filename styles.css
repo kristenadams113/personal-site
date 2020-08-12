@@ -70,8 +70,9 @@ img {
   border-radius: 10%;
   padding: 5px;
   width: 200px;
-  margin-left: auto;
   flex-wrap: wrap;
+  float: right;
+  margin: 10px;
 }
 
 img:hover {
@@ -85,7 +86,7 @@ img:hover {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 /* formatting tables on home page */
@@ -190,10 +191,5 @@ h3 {
 .big-title {
   style: "border-left: 7em 7em 2em 7em";
   font-family: 'Lora', serif;
-}
-
-.about {
-  style="padding: 2em 2em 2em 2em; border-width: 2px; border-color: black;" 
-  text-align: right;
 }
 
